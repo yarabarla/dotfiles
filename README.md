@@ -1,5 +1,6 @@
 # dotfiles
-Run `:PluginInstall` inside vim or `vim +PluginInstall +qall` on the command-line to install plugins
+Run `:PluginInstall` inside vim or `vim +PluginInstall +qall` on the command-line to install plugins  
+Run `tmux source-file ~/.tmux.conf` to apply tmux config changes
 
 ### YouCompleteMe
 ```
